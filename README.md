@@ -1,4 +1,4 @@
-````markdown
+
 # Genetic Algorithm for the Traveling Salesman Problem
 
 This repository implements a genetic algorithm to solve the Traveling Salesman Problem (TSP) for European cities. Developed as part of a university assignment.
@@ -17,22 +17,20 @@ This repository implements a genetic algorithm to solve the Traveling Salesman P
 ## Usage
 
 1. Install dependencies:
-   ```bash
+```bash
    pip install -r requirements.txt
 ````
 
 2. Run the algorithm:
 
-   ```bash
-   python main.py
-   ```
+```bash
+python main.py
+```
+
+## Author
+- Julian Duda
 
 ## License
 
 MIT License
-
-```
-::contentReference[oaicite:0]{index=0}
- 
-```
 
